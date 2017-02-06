@@ -58,3 +58,16 @@
 * JavaScript Design Patterns
 * How to Use Git and GitHub
 * Linux Command Line Basics
+
+##
+
+#### Workshops
+
+* Internship Preparation Workshop (Internshala)
+* Web Development Workshop (Internshala)
+* Analytics Workshop (Internshala)
+* Digital Marketing Workshop (Internshala)
+* conf.kde 2016
+* Capgemini Techchallenge 3.0
+
+
