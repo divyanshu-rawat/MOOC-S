@@ -20,19 +20,25 @@
 
 #### Cousera
 
-* [Python for Everybody](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20JUMK6227QQXZ.pdf)
-* [Using Python to Access Web Data](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20CWSFZ52JW6AA.pdf)
+* [Python for Everybody] (https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20JUMK6227QQXZ.pdf)
+* [Using Python to Access Web Data] (https://github.com/divyanshu-rawat/MOOC-  
+   S/blob/master/coursera/Coursera%20CWSFZ52JW6AA.pdf)
 * [Using Databases with Python](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%2054K6Y28824XY.pdf)
 * [Python Data Structures](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%208ESJXU3DPDEA.pdf)
-* [Programming for Everybody (Getting Started with Python)](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20QD84H25489JA.pdf)
-* [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%203227PJY6XPX5.pdf)
-* [Server-side Development with NodeJS](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%204GKDNMHAQDRN.pdf)
+* [Programming for Everybody (Getting Started with Python)](https://github.com/divyanshu-rawat/MOOC-
+   S/blob/master/coursera/Coursera%20QD84H25489JA.pdf)
+* [Capstone: Retrieving, Processing, and Visualizing Data with Python](https://github.com/divyanshu-rawat/MOOC-  
+  S/blob/master/coursera/Coursera%203227PJY6XPX5.pdf)
+* [Server-side Development with NodeJS](https://github.com/divyanshu-rawat/MOOC-
+  S/blob/master/coursera/Coursera%204GKDNMHAQDRN.pdf)
 * [HTML, CSS and JavaScript](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%204CXNE4KADNKC.pdf)
-* [Front-End JavaScript Frameworks: AngularJS](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20XESW4AB7HWGA.pdf)
+* [Front-End JavaScript Frameworks: AngularJS](https://github.com/divyanshu-rawat/MOOC-
+  S/blob/master/coursera/Coursera%20XESW4AB7HWGA.pdf)
 * [Interactivity with JavaScript](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20ZULQM3N52L34.pdf)
 * [Introduction to CSS3](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20UPTQNHYE9QLW.pdf)
 * [Introduction to HTML5](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20TUQYXEL5EBGG.pdf)
-* [Front-End Web UI Frameworks and Tools](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%2098A6WAGU4CZ9.pdf)
+* [Front-End Web UI Frameworks and Tools](https://github.com/divyanshu-rawat/MOOC-
+  S/blob/master/coursera/Coursera%2098A6WAGU4CZ9.pdf)
 
 ##
 
