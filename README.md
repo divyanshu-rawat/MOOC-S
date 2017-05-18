@@ -61,6 +61,14 @@
 
 ##
 
+#### Pluralsight
+
+* Angular 2: Getting Started
+* Preparing for and Migrating Applications to Angular 2
+
+##
+
+
 #### Workshops
 
 * Internship Preparation Workshop (Internshala)
@@ -69,5 +77,6 @@
 * Digital Marketing Workshop (Internshala)
 * conf.kde 2016
 * Capgemini Techchallenge 3.0
+*  ISP 6.0 Trainings Gold Award Winner
 
 
