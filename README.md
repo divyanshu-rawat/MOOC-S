@@ -21,7 +21,7 @@
 #### Cousera
 
 * [Python for Everybody](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20JUMK6227QQXZ.pdf)
-* [Using Python to Access Web Data](https://github.com/divyanshu-rawat/MOOC-  S/blob/master/coursera/Coursera%20CWSFZ52JW6AA.pdf)
+* [Using Python to Access Web Data](https://github.com/divyanshu-rawat/MOOCS/blob/master/coursera/Coursera%20CWSFZ52JW6AA.pdf)
 * [Using Databases with Python](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%2054K6Y28824XY.pdf)
 * [Python Data Structures](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%208ESJXU3DPDEA.pdf)
 * [Programming for Everybody(Getting Started with Python)](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20QD84H25489JA.pdf)
