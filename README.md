@@ -11,7 +11,7 @@
 
 #### Edx
 
-* [Using Open Source Web Tooling to Improve Development Proficiency] (https://github.com/divyanshu-rawat/MOOC-S/blob/master/edx/Microsoft%20DEV222x%20Certificate%20_%20edX.pdf)
+* [Using Open Source Web Tooling to Improve Development Proficiency](https://github.com/divyanshu-rawat/MOOC-S/blob/master/edx/Microsoft%20DEV222x%20Certificate%20_%20edX.pdf)
 * [Introduction to jQuery](https://github.com/divyanshu-rawat/MOOC-S/blob/master/edx/Microsoft%20DEV208x%20Certificate%20_%20edX.pdf)
 * [Introduction to MongoDB using the MEAN Stack](https://github.com/divyanshu-rawat/MOOC-S/blob/master/edx/MongoDBx%20M101x%20Certificate%20_%20edX.pdf)
 * Introduction to C++.
