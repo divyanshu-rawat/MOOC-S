@@ -23,7 +23,7 @@
 
 ##
 
-#### Cousera
+#### Coursera
 
 * [Python for Everybody](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20JUMK6227QQXZ.pdf)
 * [Using Python to Access Web Data](https://github.com/divyanshu-rawat/MOOCS/blob/master/coursera/Coursera%20CWSFZ52JW6AA.pdf)
@@ -38,6 +38,8 @@
 * [Introduction to CSS3](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20UPTQNHYE9QLW.pdf)
 * [Introduction to HTML5](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%20TUQYXEL5EBGG.pdf)
 * [Front-End Web UI Frameworks and Tools](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%2098A6WAGU4CZ9.pdf)
+* [Single Page Web Applications with AngularJS](https://github.com/divyanshu-rawat/MOOC-S/blob/master/coursera/Coursera%BH4MD2YRLU5B.pdf)
+
 
 ##
 
@@ -71,6 +73,8 @@
 * [Angular 2: Getting Started](https://github.com/divyanshu-rawat/MOOC-S/blob/master/Pluralsight/certificate.pdf)
 * [Preparing for and Migrating Applications to Angular 2](https://github.com/divyanshu-rawat/MOOC-S/blob/master/Pluralsight/Pluralsight.pdf)
 * [React.js: Getting Started](https://github.com/divyanshu-rawat/MOOC-S/blob/master/Pluralsight/reactjs.pdf)
+* [Fundamentals of Cloud Computing](https://github.com/divyanshu-rawat/MOOC-S/blob/master/Pluralsight/cloud_computing.pdf)
+
 
 ##
 
